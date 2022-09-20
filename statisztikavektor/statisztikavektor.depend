@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663648271 source:d:\nagy emanuel xii.b\statisztikavektor\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
