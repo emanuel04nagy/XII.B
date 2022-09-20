@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663649185 source:d:\nagy emanuel xii.b\statisztikavektor2\main.cpp
+	<iostream>
+	<fstream>
+
